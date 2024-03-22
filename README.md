@@ -38,6 +38,20 @@ git config --global user.email email@email.com.br
 * Após criada a branch você será redirecionado automaticamente a ela, neste espaço que você desenvolverá sua parte do projteto
 
 
+
+
+
+  ### Rotina
+
+* Adicione as alterações feitas: `git add .`
+
+* Cheque em qual branch você está e quais alterações foram adicionadas: `git status`
+
+* Dê um commit com uma mensagem especificando as alterações realizadas: `git commit -m "mensagem especificando o que foi feito"`
+
+* Envie o commit feito para sua branch: `git push origin suabranch`
+
+
   ### Back-End
   * BackEnd de desenvolvimento em php usando o framework laravel juntamente com o laravel Sail, para padronizar a api.
  
