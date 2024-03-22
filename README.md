@@ -8,5 +8,10 @@
 * [Lucas Ribeiro Singulare]().
 * [João Pedro Norton]().
 
-  #### Back-End
-  1. 
+  ### Back-End
+  * BackEnd de desenvolvimento em php usando o framework laravel juntamente com o laravel Sail, para padronizar a api.
+ 
+
+     
+  ### Front-End
+  * Front-end desenvolvido em React
