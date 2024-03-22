@@ -52,10 +52,14 @@ git config --global user.email email@email.com.br
 * Envie o commit feito para sua branch: `git push origin suabranch`
 
 
-  ### Back-End
+  ### BackEnd
   * BackEnd de desenvolvimento em php usando o framework laravel juntamente com o laravel Sail, para padronizar a api.
+  * Para rodar o BackEnd instale o docker em sua maquina (é aconselhável usar o wsl do ubuntu para o windows).
+  * Entre na pasta do projeto BackEnd
+  * Rode `./vendor/bin/sail up` para subir as imagens do docker na sua maquina.
+  * Imagens docker são: NGINX, mysql, php.
  
 
      
-  ### Front-End
-  * Front-end desenvolvido em React
+  ### FrontEnd
+  * Front-end desenvolvido em React 
